@@ -1,4 +1,6 @@
-Small WebCam server	{#mainpage}
+[![Build](https://github.com/OlekMazur/webcam/actions/workflows/makefile.yml/badge.svg)](https://github.com/OlekMazur/webcam/actions/workflows/makefile.yml)
+
+Small WebCam server
 ===================
 
 A program which captures video frames from a V4L2 device (e.g. USB camera),
